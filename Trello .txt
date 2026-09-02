@@ -1,0 +1,9 @@
+# School Management System
+
+## Project Management
+
+Our project tasks and development progress are managed through Trello.
+
+Trello Board:
+
+https://trello.com/invite/b/6a96e3337067c69bcefcf7c3/ATTIeaf26fee184632f8fc0ffea00c0727a718D7181E/school-management-system
